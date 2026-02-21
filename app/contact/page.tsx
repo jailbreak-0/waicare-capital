@@ -65,7 +65,7 @@ export default function ContactPage() {
           <div 
             className="fixed inset-0 z-0"
             style={{
-              backgroundImage: 'url(/about-page/about-bg.jpg)',
+              backgroundImage: 'url(/contact_bg.jpg)',
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               backgroundAttachment: 'fixed',
