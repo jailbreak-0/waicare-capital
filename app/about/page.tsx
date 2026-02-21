@@ -46,7 +46,7 @@ export default function AboutPage() {
           <div 
             className="fixed inset-0 z-0"
             style={{
-              backgroundImage: 'url(/about-page/about-bg.jpg)',
+              backgroundImage: 'url(/about-page/bg.jpg)',
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               backgroundAttachment: 'fixed',
